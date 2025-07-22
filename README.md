@@ -20,7 +20,7 @@ cd ab-fiber
 ## TODOS
 
 - [x] Hello World Home Page
-- [x] Set Views
+- [ ] Set Views
 - [ ] Set Database Connection
 - [ ] Set Database Migration Test
 - [ ] Design Database Models/Schema

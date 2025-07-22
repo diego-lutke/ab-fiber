@@ -3,6 +3,7 @@ module github.com/diego-lutke/ab-fiber
 go 1.24.4
 
 require (
+	github.com/BurntSushi/toml v1.5.0 // indirect
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/gofiber/fiber/v2 v2.52.9 // indirect
 	github.com/google/uuid v1.6.0 // indirect
