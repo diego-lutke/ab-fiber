@@ -6,11 +6,21 @@ A web tool to find the best fiber paths between two locations
 
 - **Backend**: Go 1.24.4
 - **Database**: SQLite
-- **Frontend**: HTML, JavaScript, Tailwind CSS, Alpine.js
+- **Frontend**: HTML, JavaScript, Tailwind CSS, Go Fiber, Alpine.js
+
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/diego-lutke/ab-fiber.git
+cd ab-fiber
+```
 
 ## TODOS
 
-- [ ] Hello World Home Page
+- [x] Hello World Home Page
+- [x] Set Views
 - [ ] Set Database Connection
 - [ ] Set Database Migration Test
 - [ ] Design Database Models/Schema
